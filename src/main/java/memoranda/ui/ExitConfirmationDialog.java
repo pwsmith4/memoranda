@@ -53,7 +53,7 @@ public class ExitConfirmationDialog extends JDialog implements WindowListener {
 		this.setResizable(false);
         
 		// Build headerPanel
-        headerPanel.setBackground(Color.WHITE);
+        headerPanel.setBackground(Color.RED);
         headerPanel.setBorder(BorderFactory.createEmptyBorder(0, 5, 0, 5));
         header.setFont(new java.awt.Font("Dialog", 0, 20));
         header.setForeground(new Color(0, 0, 124));

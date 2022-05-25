@@ -141,7 +141,7 @@ public class TaskPanel extends JPanel {
         editTaskB.setPreferredSize(new Dimension(24, 24));
         editTaskB.setRequestFocusEnabled(false);
         editTaskB.setToolTipText(Local.getString("Edit task"));
-        editTaskB.setMinimumSize(new Dimension(24, 24));
+        editTaskB.setMinimumSize(new Dimension(50, 50));
         editTaskB.setMaximumSize(new Dimension(24, 24));
 //        editTaskB.setEnabled(true);
         editTaskB.setIcon(
