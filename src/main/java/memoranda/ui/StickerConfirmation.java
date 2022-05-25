@@ -101,7 +101,7 @@ public class StickerConfirmation extends JDialog {
             "/ui/icons/sticker48.png")));
 
 
-                jLabel1.setText(Local.getString("DELETE THIS STICKER?"));
+                jLabel1.setText(Local.getString("DELETING THIS STICKER NOW"));
                 panel1.setBorder(border1);
                 jPanel1.setBorder(border2);
                 getContentPane().add(panel1, BorderLayout.CENTER);
