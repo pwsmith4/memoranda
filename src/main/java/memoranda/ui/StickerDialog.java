@@ -190,7 +190,7 @@ public class StickerDialog extends JDialog {
 				italicButton_actionPerformed(e);
 			}
 		});
-		underlineButton.setText(Local.getString("Underline"));
+		underlineButton.setText(Local.getString("Underline???????"));
 		underlineButton.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				underlineButton_actionPerformed(e);
